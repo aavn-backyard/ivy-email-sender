@@ -1,0 +1,10 @@
+sendMailData #class
+ch.axonivy.email.sendMail #namespace
+from String #field
+from PERSISTENT #fieldModifier
+to String #field
+to PERSISTENT #fieldModifier
+subject String #field
+subject PERSISTENT #fieldModifier
+content String #field
+content PERSISTENT #fieldModifier
